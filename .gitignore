@@ -5,6 +5,7 @@
 *.txt
 *.log
 *_config.py
+*.json
 __pycache__/*
 myvenv/*
 static/*
